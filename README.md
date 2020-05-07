@@ -43,8 +43,7 @@ Features:
   system takes special measures to control how many servers may be discovered by
   a single client.
 
-- Mobile ready. A Psiphon client Android app will be available as part of the
-  beta launch, and other mobile platforms are in the works.
+- Cross platform. Psiphon clients are available for Windows, Android, and iOS.
 
 - Zero install. Psiphon is delivered to users as a minimal footprint, zero
   install application that can be downloaded from any webpage, file sharing site
