@@ -85,7 +85,7 @@ and authenticated. The purpose of this
 encryption is to evade censorship based on deep-packet inspection of traffic, not to add
 confidentiality to the user's Internet traffic. The user's traffic is plaintext to the Psiphon
 proxy and to the Internet at large as it egresses from the Psiphon proxy. Put simply,
-Psiphon does not add HTTPS or equivilent security where it is not already in place at the
+Psiphon does not add HTTPS or equivalent security where it is not already in place at the
 application level.
 
 - Anonymity. Psiphon is not an anonymity solution such as
