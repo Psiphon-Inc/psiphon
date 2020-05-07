@@ -69,7 +69,7 @@ Features:
   transport protocol is blocked by a censor, Psiphon automatically switches over
   to another mechanism.
 
-Our [legacy design document](files/DESIGN.pdf) is outdated, but the many of the
+Our [legacy design document](files/DESIGN.pdf) is outdated, but many of the
 fundamentals still apply.
 
 
