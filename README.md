@@ -19,6 +19,7 @@ These are the repos that will likely be of primary interest:
 | [Psiphon-Inc/psiphon-windows](https://github.com/Psiphon-Inc/psiphon-windows) | Windows application |
 | [Psiphon-Inc/psiphon-automation](https://github.com/Psiphon-Inc/psiphon-automation) | Tools for managing the Psiphon server network |
 | [Psiphon-Inc/psiphon-website](https://github.com/Psiphon-Inc/psiphon-website) | Psiphon "download site"; e.g., at https://psiphon.ca/en/index.html |
+| [launchpad.net/psiphon](https://launchpad.net/psiphon) | Psiphon link-rewriting web proxy |
 
 All of our public repositories can be found at https://github.com/Psiphon-Inc and
 https://github.com/Psiphon-Labs.
