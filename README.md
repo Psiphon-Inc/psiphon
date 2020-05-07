@@ -28,7 +28,7 @@ System Overview
 The Psiphon Circumvention System is a relay-based Internet censorship
 circumventer.
 
-The system consists of a client application, which configures a users computer
+The system consists of a client application, which configures a user's computer
 to direct Internet traffic; and a set of servers, which proxy client traffic to
 the Internet. As long as a client can connect to a Psiphon server, it can
 access Internet services that may be blocked to the user via direct connection.
