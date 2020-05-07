@@ -15,7 +15,7 @@ These are the repos that will likely be of primary interest:
 * https://github.com/Psiphon-Inc/psiphon-android : Android app
 * https://github.com/Psiphon-Inc/psiphon-ios-vpn : iOS VPN app
 * https://github.com/Psiphon-Inc/psiphon-windows : Windows application
-* https://github.com/Psiphon-Inc/psiphon-automation : tools for managing the Psiphon server network
+* https://github.com/Psiphon-Inc/psiphon-automation : Tools for managing the Psiphon server network
 * https://github.com/Psiphon-Inc/psiphon-website : Psiphon "download site"; e.g., at https://psiphon.ca/en/index.html and https://psiphon3.com
 
 All of our public repositories can be found at https://github.com/Psiphon-Inc and
