@@ -43,7 +43,7 @@ Features:
   system takes special measures to control how many servers may be discovered by
   a single client.
 
-- Cross platform. Psiphon clients are available for Windows, Android, and iOS.
+- Cross-platform. Psiphon clients are available for Windows, Android, and iOS.
 
 - Zero install. Psiphon is delivered to users as a minimal footprint, zero
   install application that can be downloaded from any webpage, file sharing site
